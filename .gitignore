@@ -32,3 +32,6 @@ node_modules
 
 # Editor
 .idea
+
+### TEMPORARY
+client/scripts/public/bundle.js
